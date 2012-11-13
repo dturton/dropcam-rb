@@ -1,23 +1,25 @@
 dropcam-rb is a very simple class to access your Dropcam account and download the latest frame from the camera.
 
-TODO:
+## TODO: ##
  - Add Tests
  - Add more dropcam API methods
  - Add persistence for login cookies
  - More comments
 
 
-CONTENTS:
+## CONTENTS: ##
 
 *dropcam.rb* - Dropcam API
 
 *download.rb* - downloads latest from from all cameras owned by the authenticated Dropcam account
 
 
-NOTES:
+## NOTES: ##
 
 The Dropcam API is unofficial and unreleased. This code can break at anytime as Dropcam changes/updates their service. 
 
+
+## LICENSE: ##
 
 Copyright (c) 2012 Nolan Brown
 
